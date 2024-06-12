@@ -41,3 +41,7 @@ To improve Vrinda Store’s sales:
 Target women customers aged 30-49 years in Maharashtra, Karnataka, and Uttar Pradesh.
 
 Utilize ads, offers, and coupons available on Amazon, Flipkart, and Myntra channels.
+
+**Dashboard Design** 
+
+![sales analysis_page-0001](https://github.com/Sagarparkhe/Excel-Project---Annual-Sales-Analysis-Report/assets/171353864/f7302ad2-2b1a-4d44-b09a-ce866e40adf6)
