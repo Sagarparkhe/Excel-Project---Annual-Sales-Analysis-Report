@@ -1,6 +1,6 @@
 # Excel-Project---Annual Sales Analysis Report
 
-**Objective**
+# *Objective**
 
 The “Annual Sales Analysis Report” aims to provide insights into Vrinda Store’s sales performance for the year 2022. By analyzing sales data, Vrinda can better understand its customers and strategically enhance sales in 2023.
 
