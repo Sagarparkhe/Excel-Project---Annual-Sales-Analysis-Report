@@ -1,4 +1,4 @@
-# Excel-Project---Annual Sales Analysis Report
+# Excel-Project-Annual Sales Analysis Report
 
 # *Objective**
 
