@@ -4,7 +4,7 @@
 
 The “Annual Sales Analysis Report” aims to provide insights into Vrinda Store’s sales performance for the year 2022. By analyzing sales data, Vrinda can better understand its customers and strategically enhance sales in 2023.
 
-**Key Questions Addressed**
+# *Key Questions Addressed*
 
 **Comparison of Sales and Orders**: Visualize sales and order trends using a single chart.
 
@@ -22,7 +22,7 @@ The “Annual Sales Analysis Report” aims to provide insights into Vrinda Stor
 
 **Best-Selling Category**: Highlight the highest-selling product category.
 
-**Sample Insights**
+# *Sample Insights*
 Based on the analysis:
 
 Women accounted for approximately 65% of total purchases.
@@ -33,7 +33,8 @@ The adult age group (30-49 years) was the largest contributor (approximately 50%
 
 Amazon, Flipkart, and Myntra were the primary channels driving sales (contributing around 80%).
 
-**Recommendations**
+
+# *Recommendations*
 
 To improve Vrinda Store’s sales:
 
